@@ -14,7 +14,7 @@ port1=int(input("Enter the port-number mentioned on the Airomre app: "))
 
 #session = AirmoreSession(ip)# if your port is not 2333
 
- session = AirmoreSession(ip, port1)  # assuming it is 2333
+session = AirmoreSession(ip, port1)  # assuming it is 2333
 
 
 
